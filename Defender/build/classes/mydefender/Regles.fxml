@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" maxHeight="600.0" maxWidth="1000.0" minHeight="600.0" minWidth="1000.0" prefHeight="600.0" prefWidth="1000.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="429.0" layoutY="75.0" text="Règles" textFill="RED">
+         <font>
+            <Font name="Impact" size="50.0" />
+         </font>
+      </Label>
+      <Label layoutX="145.0" layoutY="200.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Vous êtes un alien et rentrez chez vous après avoir transfomé de nombreux humains en prisonniers. ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="118.0" layoutY="240.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Vous vous apprêtez à enfin vous relaxer en regardant Netflix quand toutes les alarmes se mettent à sonner. ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="256.0" layoutY="280.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Ce sont les humains, et ils sont bien décidés à sauver les prisonniers. ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="167.0" layoutY="360.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Votre but : empêcher les humains de porter secours à leurs confrères et en tuer un maximum. ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="103.0" layoutY="400.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Attention, ils ne resteront pas sans rien faire et riposteront, soyez sûrs de vos réflèxes car vous en aurez besoin ! ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="420.0" layoutY="450.0" style="-fx-background-color: white; -fx-background-radius: 8;" text=" Bonne chance ! ">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="50.0" layoutY="40.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Retour au menu (press Échap) ">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="212.0" layoutY="320.0" style="-fx-background-color: white; -fx-background-radius: 7;" text=" Ni une ni deux vous sautez dans votre vaisseau et vous préparez pour le combat. ">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
